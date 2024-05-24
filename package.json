@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "footer": "^1.0.0",
+    "highlight.js": "^11.9.0",
+    "wangeditor": "^4.7.15"
+  }
+}
